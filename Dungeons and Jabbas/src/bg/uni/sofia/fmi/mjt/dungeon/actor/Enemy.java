@@ -44,7 +44,7 @@ public class Enemy implements Actor{
 	@Override
 	public Weapon getWeapon() {
 		// TODO Auto-generated method stub
-		return this.getWeapon();
+		return this.weapon;
 	}
 
 	@Override
