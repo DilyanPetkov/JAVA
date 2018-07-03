@@ -1,0 +1,1 @@
+create car model=Q5{-hatchback} engine=D{-100hp|6L{T}-euro3} {transmission=Auto{-4}}

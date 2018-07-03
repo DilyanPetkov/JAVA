@@ -1,0 +1,2 @@
+VIN:BG0B8MINWJTZ6WAMUModel [coupe=sedan, type=A1]Engine [fuel=Diesel, turbo=false, power=55, standart=euro6]Transmission [gearBoxType=manual, gears=5]
+VIN:BG3MZ21NSYMVHMA2ZModel [coupe=combi, type=A1]Engine [fuel=Gasilone, turbo=true, power=55, standart=euro5]Transmission [gearBoxType=automatic, gears=6]
